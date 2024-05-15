@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ümmü Gülsüm Özaslan</h1>
 <h3 align="center">Computer Engineer</h3>
-<p>How to reach: <a href="mailto:glsmozsln@gmail.com">glsmozsln@gmail.com</a></p>
+<p> How to reach me: <a href="mailto:glsmozsln@gmail.com">glsmozsln@gmail.com</a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
